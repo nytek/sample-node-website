@@ -4,7 +4,7 @@ Will accept GET request at http://localhost:3000/
 
 ## Installing
 
-Install [node.js](http://nodejs.org). If you're using [Homebrew](http://brew.sh) (you are, right?) run:
+Install [node.js](http://nodejs.org). If you're using [Homebrew](http://brew.sh)run:
 
     brew install node
 
